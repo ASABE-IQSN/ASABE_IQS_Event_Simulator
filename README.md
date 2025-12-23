@@ -1,0 +1,1 @@
+This repository is a unified event simulator for all of IQS, the goal is to simulate pulls, manuverability, durability, engine CAN, and other things from this simulator. It will have outputs to CAN, ROS, and Redis to allow simulation at all levels.
