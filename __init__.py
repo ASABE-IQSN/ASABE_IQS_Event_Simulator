@@ -1,0 +1,1 @@
+from .resources.secrets import local_secrets
